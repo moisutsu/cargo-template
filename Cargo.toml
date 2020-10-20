@@ -1,10 +1,10 @@
 [package]
-name = "cargo-template"
+name = "{{project-name}}"
 version = "0.1.0"
-authors = ["moisutsu <moisutsu@gmail.com>"]
+authors = ["{{authors}}"]
 edition = "2018"
 description = ""
-repository = ""
+repository = "https://github.com/{{authors}}/{{project-name}}"
 license = "MIT"
 readme = "README.md"
 # see https://crates.io/category_slugs
