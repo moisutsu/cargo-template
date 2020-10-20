@@ -1,6 +1,7 @@
 # cargo-template
 
 This is a simple template for cargo projects
+
 You can easily publish to crates.io
 
 # Usage
