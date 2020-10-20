@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["{{authors}}"]
 edition = "2018"
 description = ""
-repository = "https://github.com/{{authors}}/{{project-name}}"
+repository = ""
 license = "MIT"
 readme = "README.md"
 # see https://crates.io/category_slugs
